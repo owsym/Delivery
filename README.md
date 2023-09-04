@@ -1,6 +1,5 @@
 # Responsive Website Delivery 🚚
-## [Watch it on youtube](https://youtu.be/xOQU3YNHxJc)
-### Responsive Website Delivery
+
 
 - Website Delivery, using HTML, Sass and JavaScript.
 - Includes a dark and light mode.
